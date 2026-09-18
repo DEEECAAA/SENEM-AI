@@ -1,0 +1,30 @@
+11:02:17: DECA created room Time Series Classifications
+11:02:17: DECA joined the room
+11:03:55: <color="yellow">CONFIDENT, UNINTERESTED Student </color>: Professor!
+11:03:55: <color="yellow">CONFIDENT, UNINTERESTED Student </color>: What's the difference between these two types of time series again? Are they used for different purposes or is it just a classification thing?
+11:11:19: <color="yellow">CONFIDENT, UNINTERESTED Student </color>: Professor!
+11:11:20: <color="yellow">CONFIDENT, UNINTERESTED Student </color>: "Can you explain more about how time series classification is used in the automotive industry to detect defects? I didn't quite catch that part."
+11:14:13: <color="yellow">SILENT, VERY_INTERESTED Student </color>: Professor!
+11:14:16: <color="yellow">SILENT, VERY_INTERESTED Student </color>: What about seasonality? How do you handle that in Time Series Classifications?
+11:16:26: <color="yellow">SILENT, VERY_INTERESTED Student </color>: Professor!
+11:16:28: <color="yellow">SILENT, VERY_INTERESTED Student </color>: "Can you give an example of when this time series classification would be useful?"
+11:16:43: <color="yellow">SILENT, INTERESTED Student </color>: Professor!
+11:16:45: <color="yellow">SILENT, INTERESTED Student </color>: I don't understand why they can't just be structured like normal data.
+11:17:05: <color="yellow">SHY, NEUTRAL Student </color>: Professor!
+11:17:05: <color="yellow">SHY, NEUTRAL Student </color>: "Can you clarify what you mean by 'pattern or characteristics' that machine learning models spot in time series data?"
+11:19:49: <color="yellow">CONFIDENT, UNINTERESTED Student </color>: Professor!
+11:19:49: <color="yellow">CONFIDENT, UNINTERESTED Student </color>: What's the purpose of using NIREST NAGBOR CLASSIFICATION in the first place?
+11:22:25: <color="yellow">SILENT, VERY_INTERESTED Student </color>: Professor!
+11:22:26: <color="yellow">SILENT, VERY_INTERESTED Student </color>: What is the advantage of using the same time intervals during testing?
+11:22:46: <color="yellow">SHY, NEUTRAL Student </color>: Professor!
+11:22:46: <color="yellow">SHY, NEUTRAL Student </color>: "Can you repeat the part about extracting three videos from the new temporal series? I didn't quite catch that."
+11:23:05: <color="yellow">OUTGOING, NEUTRAL Student </color>: Professor!
+11:23:19: <color="yellow">OUTGOING, NEUTRAL Student </color>: "Wow, that sounds really cool! I'm just curious, what kind of benefits do you get from using the same intervals for both training and testing?"
+11:26:23: <color="yellow">CONFIDENT, UNINTERESTED Student </color>: Professor!
+11:26:32: <color="yellow">CONFIDENT, UNINTERESTED Student </color>: "What's the difference between a full connected softmax layer and other types of layers?"
+11:26:38: <color="yellow">SILENT, INTERESTED Student </color>: Professor!
+11:26:53: <color="yellow">SILENT, INTERESTED Student </color>: "I don't get it..."
+11:30:04: <color="yellow">SHY, NEUTRAL Student </color>: Professor!
+11:30:04: <color="yellow">SHY, NEUTRAL Student </color>: "Can you clarify what you mean by 'st'?"
+11:30:18: <color="yellow">SILENT, VERY_INTERESTED Student </color>: Professor!
+11:30:19: <color="yellow">SILENT, VERY_INTERESTED Student </color>: "What does he mean by 'st e altri classificatori'?"

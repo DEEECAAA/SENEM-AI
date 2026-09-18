@@ -1,0 +1,24 @@
+11:27:54: DECA created room AI e Code Smells
+11:27:54: DECA joined the room
+11:29:22: <color="yellow">SHY, NEUTRAL Student </color>: Professor!
+11:29:23: <color="yellow">SHY, NEUTRAL Student </color>: Um, yeah... technical depth... I think it's important to have that when working with AI and code smells...
+11:29:25: <color="yellow">OUTGOING, SLIGHTLY_INTERESTED Student </color>: Professor!
+11:30:01: <color="yellow">OUTGOING, SLIGHTLY_INTERESTED Student </color>: So, like, what's the difference between technical debt and code smells?
+11:32:40: <color="yellow">CONFIDENT, SLIGHTLY_INTERESTED Student </color>: Professor!
+11:32:46: <color="yellow">CONFIDENT, SLIGHTLY_INTERESTED Student </color>: "Can you elaborate on what you mean by 'suboptimal solution'? I'm not entirely sure how an intentionally introduced suboptimal solution can be beneficial in the long run."
+11:35:51: <color="yellow">SHY, NEUTRAL Student </color>: Professor!
+11:36:39: <color="yellow">SHY, NEUTRAL Student </color>: "I'm not sure I've seen this concept of God Smell before, but it sounds like a useful tool for identifying issues in code?"
+11:39:08: <color="yellow">OUTGOING, SLIGHTLY_INTERESTED Student </color>: Professor!
+11:39:13: <color="yellow">OUTGOING, SLIGHTLY_INTERESTED Student </color>: Umm... yeah... AI code smells? What's that mean exactly? Can you give an example?
+11:41:21: <color="yellow">CONFIDENT, SLIGHTLY_INTERESTED Student </color>: Professor!
+11:41:22: <color="yellow">CONFIDENT, SLIGHTLY_INTERESTED Student </color>: I totally agree with that! With code smells, it's like having a ticking time bomb in your AI system, you know?
+11:45:28: <color="yellow">SHY, NEUTRAL Student </color>: Professor!
+11:45:33: <color="yellow">CONFIDENT, SLIGHTLY_INTERESTED Student </color>: Professor!
+11:45:33: <color="yellow">SHY, NEUTRAL Student </color>: "I think so, the professor is saying that when you update a dataframe with absolute values, it's like... updating it correctly?"
+11:46:04: <color="yellow">CONFIDENT, SLIGHTLY_INTERESTED Student </color>: I get what you're saying, Professor! It sounds like when we use the same data frame in both our code and database schema, it allows us to update the data frame with the absolute values. Am I right?
+11:49:18: <color="yellow">OUTGOING, SLIGHTLY_INTERESTED Student </color>: Professor!
+11:49:20: <color="yellow">OUTGOING, SLIGHTLY_INTERESTED Student </color>: "Uh, what does that mean?"
+11:49:20: <color="yellow">OUTGOING, NEUTRAL Student </color>: Professor!
+11:49:24: <color="yellow">SHY, VERY_INTERESTED Student </color>: Professor!
+11:49:25: <color="yellow">OUTGOING, NEUTRAL Student </color>: "Isn't that a great point, Professor? It's always better to use default values when you can, just in case some unexpected changes occur because of library reasoning."
+11:49:58: <color="yellow">SHY, VERY_INTERESTED Student </color>: "Uh, sorry professor, can you repeat what you just said about using default values? I didn't quite catch it."

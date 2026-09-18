@@ -1,0 +1,6 @@
+11:15:27: deca created room prova
+11:15:27: deca joined the room
+11:16:02: <color="yellow">OUTGOING, NEUTRAL Student </color>: Professor!
+11:16:04: <color="yellow">OUTGOING, NEUTRAL Student </color>: Hello professor, can you clarify what you mean by "prova" in the context of this lecture?
+11:16:38: <color="yellow">SHY, NEUTRAL Student </color>: Professor!
+11:16:39: <color="yellow">SHY, NEUTRAL Student </color>: Sì, certo!

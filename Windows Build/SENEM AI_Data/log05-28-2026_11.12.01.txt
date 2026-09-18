@@ -1,4 +1,0 @@
-11:12:16: deca created room prova
-11:12:17: deca joined the room
-11:13:11: <color="yellow">SILENT, NEUTRAL Student </color>: Professor!
-11:13:12: <color="yellow">SILENT, NEUTRAL Student </color>: "Hello?"

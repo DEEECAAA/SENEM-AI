@@ -1,5 +1,5 @@
 SENEM-AI: Smart Student Edition
-<p align = "center"> <img src = "blobs/SENEM\_logo.png?raw=true" width = "100px"> </p>
+<p align = "center"> <img src = "blobs/SENEM_logo.png?raw=true" width = "100px"> </p>
 <h3 align = "center"> Welcome to the SENEM-AI! </h3>
 <p align = "center"> An open-source project developed with Unity3D and Photon to create a collaborative 3D virtual environment for academic and educational purposes.</p>
 <p align="center"><i>Now powered by AI!</i></p>
@@ -38,7 +38,7 @@ To make them work in SENEM, you will need to get the Smart Student Server.
 Different personalities, voices, and appearances: Each Smart Student features unique appearances, personality parameters that shape their interaction style, and randomized voices to simulate a diverse classroom audience.
 Vocal and textual interaction: They communicate through a voice synthesizer and actively participate in the text chat by asking or answering questions.
 Make and answer questions: Smart Students can engage dynamically by responding to your questions or posing their own as the lesson unfolds.
-<p align = "center"> <img src = "blobs/smart\_students.png?raw=true" width = "100%"> </p>
+<p align = "center"> <img src = "blobs/smart_students.png?raw=true" width = "100%"> </p>
 ---
 Content of the Repository
 This repository contains:
@@ -74,7 +74,7 @@ The project can be opened and built from Unity for supported platforms, includin
 
 * Unity3D version: 2021.3.22f1
 * Unity Hub
-* <a href="https://github.com/DEEECAAA/Smart\_Student\_Server\_DECA">Smart Student Server (optional, runs locally)</a>
+* <a href="https://github.com/DEEECAAA/Smart_Student_Server_DECA">Smart Student Server (optional, runs locally)</a>
 
 **Steps:**
 

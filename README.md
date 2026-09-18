@@ -54,7 +54,6 @@ To make them work in SENEM, you will need to get the [Smart Student Server](http
 This repository contains:
 - _Metaverse_Classroom_2_: The complete Unity Project of the application.
 - _Windows Build_: The built application ready to use for Windows.
-- _MacOS Build.app_: The built application for MacOS.
 
 ---
 
@@ -67,8 +66,8 @@ You can either use a pre-built version of the application or access the entire p
 2. Run the _SENEM_AI_ executable.
 
 **MacOS:**
-1. **Download and Extract**  
-   - Download the file `_MacOS Build.app_` and extract it into a folder.
+1. **Download and Build**  
+   - Download the project files of Unity and build.
 
 2. **Allow Your Device to Run the Application**  
    Follow these steps to grant the necessary permissions:  
@@ -101,3 +100,4 @@ Have fun with SENEM-AI!
 ## Authors
 * **Viviana Pentangelo** - [vipenti](https://github.com/vipenti)
 * **Luigi Turco** - [KronosPNG](https://github.com/KronosPNG)
+* **Antonio Ferrentino** - [DEEECAAA](https://github.com/DEEECAAA)
